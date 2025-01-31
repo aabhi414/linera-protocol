@@ -29,7 +29,8 @@ metrics_port = 21100
 
 [[shards]]
 host = "docker-shard-3"
-port = 19100
+port = 19101
+
 metrics_host = "docker-shard-3"
 metrics_port = 21100
 
